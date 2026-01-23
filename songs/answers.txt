@@ -1,0 +1,12 @@
+Spotify uses metrics like danceability, energy, and valence to create
+personalized experiences like "Spotify Wrapped."
+
+For example, by calculating the average energy and valence of the songs
+a user listens to, Spotify can determine their "Audio Aura" or mood.
+High energy and high valence might suggest a "Happy" or "Energetic"
+listener profile, while low valence might indicate a "Wistful" or
+"Melancholic" mood.
+
+Additionally, tracking the tempo and danceability helps Spotify
+recommend similar songs to keep users engaged with new music that
+fits their established rhythmic preferences.

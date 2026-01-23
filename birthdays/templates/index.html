@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <div class="container py-5 text-center">
+        <div class="header">
+            <h1>Birthdays</h1>
+        </div>
+
+        <div class="container">
+            <form action="/" method="post">
+                <input name="name" placeholder="Name" type="text" required>
+                <input name="month" placeholder="Month" type="number" min="1" max="12" required>
+                <input name="day" placeholder="Day" type="number" min="1" max="31" required>
+                <button type="submit">Add Birthday</button>
+            </form>
+        </div>
+
+        <div class="container mt-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Birthday</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for person in birthdays %}
+                        <tr>
+                            <td>{{ person.name }}</td>
+                            <td>{{ person.month }}/{{ person.day }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}

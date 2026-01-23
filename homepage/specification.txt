@@ -1,0 +1,15 @@
+10 HTML Tags Used:
+<html>, <head>, <body>, <title>, <nav>, <main>, <h1>, <p>, <ul>, <li>, <table>, <footer>, <script>
+
+5 CSS Properties Used:
+1. background-color
+2. font-family
+3. border
+4. box-shadow
+5. color
+
+JavaScript Usage:
+I used JavaScript to add an event listener to a button that triggers an alert and changes the text content of a paragraph.
+
+Bootstrap Features:
+I used Bootstrap's Navbar, Jumbotron, Button styles, and responsive Grid system (containers) to make the site look modern and mobile-friendly.

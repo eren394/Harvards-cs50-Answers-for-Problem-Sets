@@ -30,7 +30,7 @@ Haftalık bazda tüm klasörler ve çözümler şu şekildedir:
 | **Hafta 7** | SQL | Movies, Fiftyville |
 | **Hafta 8** | HTML/CSS/JS | Homepage |
 | **Hafta 9** | Flask | C$50 Finance |
-| **Hafta 10** | **Final Project** | *[Proje İsmin Buraya]* |
+| **Hafta 10** | **Final Project** | *[basic note app]* |
 
 ##  Akademik Dürüstlük
 Bu kodlar, takılanlara mantık göstermek ve kendi ilerlememi belgelemek içindir. Eğer kursu şu an alıyorsanız, lütfen CS50'nin **Academic Honesty** kurallarına uyunuz. Kodları kopyalamak yerine mantığını anlamaya çalışmak size çok daha fazla şey katar.
